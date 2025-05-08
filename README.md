@@ -1,4 +1,4 @@
-<h1><b>Larave Framework Hospital Management System</b></h1> 
+<h1><b>Larave Framework Hospital Management System</b></h1>  
 🌐 Social Links </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-shakil-98882718a/)
