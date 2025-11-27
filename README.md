@@ -1,5 +1,5 @@
 <h1><b>Larave Framework Hospital Management System</b></h1>
- 
+
 <h2>Content</h2>
 <h5>1. Requirement</h5>
 <h5>2. Interface</h5>
